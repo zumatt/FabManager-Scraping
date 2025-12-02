@@ -138,10 +138,6 @@ Exported files are saved in the `content/exports/` directory with the following 
 FabManager_ExportedData_{DataType}_{DD_MM_YYYY_HH-MM}.json
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## ⚠️ Troubleshooting
 
 ### CORS Errors (Browser version only)
