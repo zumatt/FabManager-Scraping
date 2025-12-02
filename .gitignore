@@ -5,6 +5,12 @@ node_modules/
 *.egg-info/
 .ipynb_checkpoints
 *.tsbuildinfo
+.vscode/
+.env
+.venv/
+env/
+venv/
+content/exports/
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
