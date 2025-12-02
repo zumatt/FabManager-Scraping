@@ -3,6 +3,9 @@
 [![Build and Deploy](https://github.com/zumatt/FabManager-Scraping/actions/workflows/deploy.yml/badge.svg)](https://github.com/zumatt/FabManager-Scraping/actions/workflows/deploy.yml)
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://zumatt.github.io/FabManager-Scraping)
 
+The repo is archived to leave space to a Python package to perform the same actions as the ones included into this notebooks and others including an analysis of the results.
+You can check the new repo here: [![View FabManager-Data-Analyzer on GitHub](https://img.shields.io/github/stars/zumatt/FabManager-Data-Analyzer?color=232323&label=FabManager-Data-Analyzer&logo=github&labelColor=232323)](https://github.com/zumatt/FabManager-Data-Analyzer)
+
 A collection of Python notebooks for scraping and exporting data from FabManager instances using the Open API.
 
 ## 📋 Overview
